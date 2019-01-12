@@ -1,0 +1,43 @@
+*{
+	margin : 0px;
+	padding : 0px;
+	background : #595959
+}
+
+header
+{
+	width: 98vw;
+	height: 120px;
+	border: 2px solid #AFCAFC;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 10px;
+	background-color: #00FF66;
+	border-radius:10px;
+	
+}
+
+section{
+	width:98vw;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	height: 100px;
+}
+nav{ 
+	border-radius:10px;
+	background-color: #00FF66;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+
+}
+#question
+{
+	width:40%;
+	height:100%;
+	background-color: #00FF66;
+	margin-top: 10px;
+	padding:20px;
+}
+
