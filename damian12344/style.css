@@ -1,0 +1,38 @@
+* {
+margin : 0px;
+padding : 0px;
+background :  #f17805;	
+}
+header {
+	border : 7px solid #ffc000;
+	width : 100vw -2px;
+	height : 120px; 
+	margin-right : auto;
+	margin-left : auto;
+	margin-top : 10px;
+	background-color :  #ffffff;
+	border-radius : 10px;
+	text-align : center;
+}
+section {
+	text-align : center;
+	width : 98vw;
+	margin-left : auto;
+	margin-right : auto;
+	margin-top : 10px;
+	height : 100vh;
+}
+nav {
+	border-radius : 10px;
+	background-color : #ffffff;
+	margin-left : auto;
+	margin-right : auto;
+	margin-top : 10px;	
+}
+#question {
+	width : 40%;
+	border-radius : 10px;
+	background-color : #ffffff;
+	margin-top : 10px;
+	padding : 20px;
+}
