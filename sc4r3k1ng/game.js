@@ -6,7 +6,7 @@ var score = 0;
 var gameTime = 100;
 var baseURL = './zzp/';
 
-	display = '<img scr="' + baseURL + images[0] + '"/>';
+	display = '<img src="' + baseURL + images[0] + '"/>';
 	document.getElementById("question").innerHTML = display;
 	console.log(display);
 }
